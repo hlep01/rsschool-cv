@@ -1,2 +1,2 @@
 # rs-cchool
-init: start youtube-task
+initstart youtube-task

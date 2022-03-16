@@ -1,3 +1,4 @@
+<dotype
 # my CV
 ##Mentuz Gleb 
 *my contacts
@@ -16,6 +17,7 @@
  *oop
 Aducetion:BSAC 
 Cnowlege of english  B1
+
  
 
 

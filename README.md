@@ -1,1 +1,1 @@
-https://hlep01.github.io/rsschool-cv/
+https://https://github.com/hlep01/rsschool-cv/tree/gh-pages

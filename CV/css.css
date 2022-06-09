@@ -1,0 +1,11 @@
+.img{
+margin-left:40px;
+font-family: Georgia;
+color:darkgrey;
+display: flex;
+flex-wrap: wrap;
+font-size:40px;
+background-color:dimgray;
+background-image:linear-gradient(200px);
+}
+
